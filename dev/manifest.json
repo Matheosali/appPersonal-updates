@@ -1,0 +1,28 @@
+{
+  "channel": "dev",
+  "commit": "1409fe6",
+  "builtAt": "2026-10-20T06:20:25.613Z",
+  "bundle": {
+    "version": "dev-1409fe6",
+    "url": "https://matheosali.github.io/appPersonal-updates/dev/bundles/1409fe6.zip",
+    "file": "bundles/1409fe6.zip",
+    "checksum": "567c1f6cc2b578fe31b9a9733d62adb629228f108d095f34ff6a8862739eb773e8ea3b9e87689c38c88915707f06403b1d8f41bf26a9fcd080686a645e317536825676f3a96d84cbbf8808206069f49addec37c8cb17082f75c7c656421809a9dcc61c37a0906bc13e57dd7e3d50bbc7ae325858cf860fa74f0b750fa25debc46368368a6c715359c339e56cba867ced1bac33ac5671b1da4ea373afa25c4a23a70d3e4f7b59b98fcf3b924d3f92cbf70ca2ec79658c0bbb695288cbb970c414e16c103530a2b4a702b603c09db4bd2f404760639a51ebb96f2d06fa3e429c32a8d22c99e4c3b682a2d5169a0e8e31d21a8feea5fba8731b8b5f2b498b0eaa3c",
+    "sessionKey": "oewqr1mFtNRaOesyxCBn9A==:lEnOsk4Iy9DkZGb2NYXfY5syxtHSlJNNrk+V0xOYI1I4QrreE03cXN6ymVcPg7jvFxYVjgOmhMODhV6o5rYAVTaCScIBG9HlpKOLhYN8oMT9VYCIY1W/+oJHzp1HoileD9fb4hVVSNKiM+SxsO/yYQddLYcU0NKDZ8tbbVDGdI+HRy8ceE+7cibvrVFzwLHZX2pdLWV4c4He8Nm/rdR6NPz/L74RohQE9rJJce4id6n6b0bZ+jNGV7bhHuaDFrtn676cfVB7/ogf1TraORJcVTdU5hVznxv4MzozaT+hP6zGeKO0yjbCXxmMcybX0FHghSo12OQ7sP0yDWq+7+s5GQ=="
+  },
+  "native": {
+    "version": 101,
+    "hash": "097424505dca5950784f3f8f86bf5ad01477d02ffd33e6cd7682d6041a1ecc55",
+    "apk": {
+      "file": "apks/appPersonal-101.apk",
+      "url": "https://matheosali.github.io/appPersonal-updates/dev/apks/appPersonal-101.apk",
+      "sha256": "59add36f11f48165757dfd895cf2c8e171d69aad1090706a3525d3dfbb390c6e"
+    }
+  },
+  "history": [
+    {
+      "commit": "1409fe6",
+      "bundle": "bundles/1409fe6.zip",
+      "apk": "apks/appPersonal-101.apk"
+    }
+  ]
+}
